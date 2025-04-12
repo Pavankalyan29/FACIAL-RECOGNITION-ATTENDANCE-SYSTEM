@@ -33,8 +33,9 @@ A Python-based automated attendance system that uses **face recognition** to mar
   
 ### Steps to Execute
 1.**Add known faces** in the <code>faces/</code> folder (e.g., <code>pavan.jpg</code>, <code>chintu.jpg</code>).<br>
-2.**Run the script:**```bash
-python main.py   
+2.**Run the script:**
+    ```bash
+    python main.py
 3.**Press** <code>Q</code> to stop the program and save attendance.
 ## 📷Sample Output
 - **Real-time recognition:** Displays "<code>[Name] Present</code>" on detected faces.
