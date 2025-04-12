@@ -13,8 +13,8 @@ A Python-based automated attendance system that uses **face recognition** to mar
 - **NumPy** – For numerical operations<br>
 - **CSV module** – For storing attendance records<br>
 ## 📂 Project Structure
-### Facial-Recognition-Attendance-System/ ###
 <pre>
+Facial-Recognition-Attendance-System/
 **├── main.py**               # Main Python script  
 **├── faces/**                # Folder containing known face images  
 **│   ├── pavan.jpg**         # Sample face 1  
