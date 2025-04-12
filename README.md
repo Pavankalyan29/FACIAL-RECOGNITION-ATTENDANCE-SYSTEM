@@ -28,7 +28,7 @@ A Python-based automated attendance system that uses **face recognition** to mar
 ### Prerequisites
 - Python 3.6+
 - Install dependencies:
-  ---bash
+  --- bash
   pip install opencv-python face-recognition numpy
   
 ### Steps to Execute
