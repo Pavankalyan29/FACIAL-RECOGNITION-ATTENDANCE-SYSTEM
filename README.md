@@ -7,11 +7,11 @@ A Python-based automated attendance system that uses **face recognition** to mar
 **✔ Simple & efficient** – Works with a webcam or any video input<br>
 **✔ Customizable** – Easily add/remove known faces<br>
 ## 🛠 Technologies Used
-***Python** (Primary language)<br>
-***OpenCV (cv2)** – For video capture and image processing<br>
-***face_recognition** – High-performance face detection & recognition<br>
-***NumPy** – For numerical operations<br>
-***CSV module** – For storing attendance records<br>
+**-Python** (Primary language)<br>
+**-OpenCV (cv2)** – For video capture and image processing<br>
+**-face_recognition** – High-performance face detection & recognition<br>
+**-NumPy** – For numerical operations<br>
+**-CSV module** – For storing attendance records<br>
 ## 📂 Project Structure
 ### Facial-Recognition-Attendance-System/ ###
 <pre>
@@ -23,3 +23,15 @@ A Python-based automated attendance system that uses **face recognition** to mar
 **│   └── DD-MM-YYYY.csv**    # Example: 12-04-2025.csv  
 **└── README.md**             # Project documentation
 </pre>
+## How to Run the Project?
+### Prerequisites
+-Python 3.6+
+-Install dependencies:
+<pre>
+  pip install opencv-python face-recognition numpy
+</pre>
+### Steps to Execute
+1.**Add known faces** in the 'faces/' folder (e.g., 'pavan.jpg', 'chintu.jpg').
+2.Run the script:
+<pre>python main.py</pre>
+3.Press Q to stop the program and save attendance.
