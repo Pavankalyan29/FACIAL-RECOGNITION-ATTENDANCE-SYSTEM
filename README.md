@@ -21,6 +21,8 @@ A Python-based automated attendance system that uses **face recognition** to mar
 - **face_recognition** – High-performance face detection & recognition<br>
 - **NumPy** – For numerical operations<br>
 - **CSV module** – For storing attendance records<br>
+---
+
 ## 📂 Project Structure
 <pre>
     Facial-Recognition-Attendance-System/
@@ -32,6 +34,7 @@ A Python-based automated attendance system that uses **face recognition** to mar
     │   └── DD-MM-YYYY.csv      # Example: 12-04-2025.csv  
     └── README.md               # Project documentation
 </pre>
+---
 
 ## 🚀How to Run the Project?
 ### Prerequisites
@@ -53,11 +56,16 @@ python main.py
   ```bash
   Name, Time  
   Pavan, 14:30:45  
-  Chintu, 14:31:10  
+  Chintu, 14:31:10
+---
+
 ## 📌 Possible Improvements
 🔹 **Add a GUI** (Tkinter/PyQt) for easier face registration.<br>
 🔹 **Integrate with databases** (SQLite/MySQL) for long-term storage.<br>
 🔹 **Deploy as a web app** using Flask/Django.<br>
 🔹 **Improve accuracy** with deep learning models (Dlib/CNN).
+
+---
+
 ## 💡 Why This Project?
 This system **eliminates manual attendance** and reduces errors, making it useful for **schools, offices, and events**. It demonstrates **Python, OpenCV, and AI integration**—a great addition to your portfolio!
