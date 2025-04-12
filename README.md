@@ -54,6 +54,9 @@ A Python-based automated attendance system that uses **face recognition** to mar
 python main.py
 ````
 3.**Press** <code>Q</code> to stop the program and save attendance.
+
+---
+
 ## 📷Sample Output
 - **Real-time recognition:** Displays "<code>[Name] Present</code>" on detected faces.
 - **CSV Log Example:**
