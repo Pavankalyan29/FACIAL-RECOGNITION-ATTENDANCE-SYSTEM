@@ -1,4 +1,4 @@
-Facial Recognition Attendance System
+<span class="increase-font">Facial Recognition Attendance System<span>Facial Recognition Attendance System
 Project Title
 📌 Facial Recognition-Based Attendance System
 
