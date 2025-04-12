@@ -8,18 +8,6 @@
 
 ---
 
-## **📌 Table of Contents**  
-1. [Features](#-features)  
-2. [Installation](#-installation)  
-3. [Usage](#-usage)  
-4. [Project Structure](#-project-structure)  
-5. [Demo](#-demo)  
-6. [Future Improvements](#-future-improvements)  
-7. [Contributing](#-contributing)  
-8. [License](#-license)  
-9. [Credits](#-credits)  
-
----
 ## Key Features
 **✔ Real-time face detection & recognition** using <code>face_recognition</code> and OpenCV<br>
 **✔ Automated CSV logging** with date-wise attendance records<br>
