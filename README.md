@@ -7,11 +7,11 @@ A Python-based automated attendance system that uses **face recognition** to mar
 **✔ Simple & efficient** – Works with a webcam or any video input<br>
 **✔ Customizable** – Easily add/remove known faces<br>
 ## 🛠 Technologies Used
-**-Python** (Primary language)<br>
-**-OpenCV (cv2)** – For video capture and image processing<br>
-**-face_recognition** – High-performance face detection & recognition<br>
-**-NumPy** – For numerical operations<br>
-**-CSV module** – For storing attendance records<br>
+**- Python** (Primary language)<br>
+**- OpenCV (cv2)** – For video capture and image processing<br>
+**- face_recognition** – High-performance face detection & recognition<br>
+**- NumPy** – For numerical operations<br>
+**- CSV module** – For storing attendance records<br>
 ## 📂 Project Structure
 ### Facial-Recognition-Attendance-System/ ###
 <pre>
