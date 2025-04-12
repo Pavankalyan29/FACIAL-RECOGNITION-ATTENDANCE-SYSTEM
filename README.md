@@ -15,6 +15,9 @@ A Python-based automated attendance system that uses **face recognition** to mar
 **✔ Automated CSV logging** with date-wise attendance records<br>
 **✔ Simple & efficient** – Works with a webcam or any video input<br>
 **✔ Customizable** – Easily add/remove known faces<br>
+
+---
+
 ## 🛠 Technologies Used
 - **Python** (Primary language)<br>
 - **OpenCV (cv2)** – For video capture and image processing<br>
@@ -42,7 +45,8 @@ A Python-based automated attendance system that uses **face recognition** to mar
 - Install dependencies:
   ```bash
   pip install opencv-python face-recognition numpy
-  
+---
+
 ### Steps to Execute
 1.**Add known faces** in the <code>faces/</code> folder (e.g., <code>pavan.jpg</code>, <code>chintu.jpg</code>).<br>
 2.**Run the script:**
