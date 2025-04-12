@@ -1,6 +1,25 @@
-# Facial Recognition Attendance System
-## Project Overview
-A Python-based automated attendance system that uses **face recognition** to mark student attendance in real-time. The system captures faces via a webcam, compares them with a pre-registered database, and logs attendance in a **CSV file** with timestamps.
+# **Facial Recognition Attendance System** 👨‍💻📸  
+*A Python-based system to automate attendance using face recognition.*  
+
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue)  
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-orange)  
+![face_recognition](https://img.shields.io/badge/face__recognition-1.3.0-red)  
+![License](https://img.shields.io/badge/License-MIT-green)  
+
+---
+
+## **📌 Table of Contents**  
+1. [Features](#-features)  
+2. [Installation](#-installation)  
+3. [Usage](#-usage)  
+4. [Project Structure](#-project-structure)  
+5. [Demo](#-demo)  
+6. [Future Improvements](#-future-improvements)  
+7. [Contributing](#-contributing)  
+8. [License](#-license)  
+9. [Credits](#-credits)  
+
+---
 ## Key Features
 **✔ Real-time face detection & recognition** using <code>face_recognition</code> and OpenCV<br>
 **✔ Automated CSV logging** with date-wise attendance records<br>
