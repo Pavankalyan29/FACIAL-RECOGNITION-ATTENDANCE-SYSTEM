@@ -6,7 +6,7 @@
 ![face_recognition](https://img.shields.io/badge/face__recognition-1.3.0-red)  
 ![License](https://img.shields.io/badge/License-MIT-green)  
 
-A Python-based automated attendance system that uses `face recognition` to mark student attendance in real-time. The system captures faces via a webcam, compares them with a pre-registered database, and logs attendance in a `CSV file` with timestamps.
+A Python-based automated attendance system that uses **face recognition** to mark student attendance in real-time. The system captures faces via a webcam, compares them with a pre-registered database, and logs attendance in a **CSV file** with timestamps.
 
 ---
 
