@@ -33,5 +33,5 @@ A Python-based automated attendance system that uses **face recognition** to mar
 ### Steps to Execute
 1.**Add known faces** in the faces/ folder (e.g., pavan.jpg, chintu.jpg).<br>
 2.**Run the script:**
-<code>python main.py</code>
-3.**Press** <mark>Q</mark> to stop the program and save attendance.
+<pre>python main.py</pre>
+3.**Press** <code>Q</code> to stop the program and save attendance.
