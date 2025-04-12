@@ -13,11 +13,8 @@ pavan_encoding = face_recognition.face_encodings(pavans_image)[0]
 chintus_image = face_recognition.load_image_file("faces/chintu.jpg")
 chintu_encoding = face_recognition.face_encodings(chintus_image)[0]
 
-sathviks_image = face_recognition.load_image_file("faces/sathvik.jpg")
-sathvik_encoding = face_recognition.face_encodings(sathviks_image)[0]
-
-known_face_encodings = [pavan_encoding, chintu_encoding, sathvik_encoding]
-known_face_names = ["Pavan", "Chintu", "Sathvik"]
+known_face_encodings = [pavan_encoding, chintu_encoding]
+known_face_names = ["Pavan", "Chintu"]
 
 #list of expected students
 students = known_face_names.copy()
