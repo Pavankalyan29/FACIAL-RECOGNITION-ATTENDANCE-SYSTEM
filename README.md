@@ -76,3 +76,5 @@ python main.py
 
 ## 💡 Why This Project?
 This system **eliminates manual attendance** and reduces errors, making it useful for **schools, offices, and events**. It demonstrates **Python, OpenCV, and AI integration**—a great addition to your portfolio!
+
+---
