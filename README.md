@@ -25,8 +25,8 @@ A Python-based automated attendance system that uses **face recognition** to mar
 </pre>
 ## How to Run the Project?
 ### Prerequisites
--Python 3.6+
--Install dependencies:
+- Python 3.6+
+- Install dependencies:
 <pre>
   pip install opencv-python face-recognition numpy
 </pre>
@@ -34,4 +34,4 @@ A Python-based automated attendance system that uses **face recognition** to mar
 1.**Add known faces** in the 'faces/' folder (e.g., 'pavan.jpg', 'chintu.jpg').
 2.Run the script:
 <pre>python main.py</pre>
-3.Press Q to stop the program and save attendance.
+3.Press ''Q'' to stop the program and save attendance.
