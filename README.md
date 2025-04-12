@@ -40,11 +40,10 @@ A Python-based automated attendance system that uses **face recognition** to mar
 ## 📷Sample Output
 - **Real-time recognition:** Displays "<code>[Name] Present</code>" on detected faces.
 - **CSV Log Example:**
-<pre>
- Name, Time  
- Pavan, 14:30:45  
- Chintu, 14:31:10  
-</pre>
+  ```bash
+  Name, Time  
+  Pavan, 14:30:45  
+  Chintu, 14:31:10  
 ## 📌 Possible Improvements
 🔹 **Add a GUI** (Tkinter/PyQt) for easier face registration.<br>
 🔹 **Integrate with databases** (SQLite/MySQL) for long-term storage.<br>
